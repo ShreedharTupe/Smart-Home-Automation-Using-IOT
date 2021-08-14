@@ -1,0 +1,7 @@
+cmd-
+
+1. dir
+
+2. blynk-ser.bat -c COM1 -p 8442
+
+http://188.166.206.43/SZN_5JK5GVRNDfFOVo4T0UmPRm_X76Ar/update/D11
